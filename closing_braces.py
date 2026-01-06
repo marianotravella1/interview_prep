@@ -33,9 +33,9 @@ def has_valid_bracing(s: str) -> bool:
     return stack == []
 
 if __name__ == '__main__':
-    # Caso que tu código anterior fallaba
+    # Caso Falso
     test_fail = "([)]" 
-    print(f"Test '{test_fail}': {has_valid_bracing(test_fail)}") # Debería ser False
+    print(f"Test '{test_fail}': {has_valid_bracing(test_fail)}")
     
     # Caso correcto
     test_ok = "{[][()]}"
