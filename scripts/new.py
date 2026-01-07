@@ -24,12 +24,8 @@ Link: [Pegar link aquí]
 
 from typing import List
 
-def solution():
-    pass
-
-if __name__ == "__main__":
-    # Test cases manuales
-    print(solution())
+class Solution:
+    def {folder_name}(self) -> :
 '''
     
     with open(file_path, "w", encoding='utf-8') as f:
