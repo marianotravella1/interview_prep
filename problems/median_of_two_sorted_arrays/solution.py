@@ -34,8 +34,4 @@ class Solution:
             return (val1 + val2) / 2.0
 
 
-
-
-
-
         
