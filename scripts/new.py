@@ -22,7 +22,6 @@ LeetCode Problem: {problem_name}
 Link: [Pegar link aquí]
 """
 
-from typing import List
 
 class Solution:
     def {folder_name}(self) -> :
