@@ -24,7 +24,9 @@ Link: [Pegar link aquí]
 
 
 class Solution:
-    def {folder_name}(self) -> :
+
+if __name__ == '__main__':
+    sol = Solution()
 '''
     
     with open(file_path, "w", encoding='utf-8') as f:
