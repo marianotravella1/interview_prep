@@ -32,8 +32,7 @@ if __name__ == '__main__':
     with open(file_path, "w", encoding='utf-8') as f:
         f.write(template)
         
-    print(f"✅ Carpeta y archivo creados en: problems/{folder_name}/solution.py")
-    print("🚀 ¡A codear!")
+    print(f"Carpeta y archivo creados en: problems/{folder_name}/solution.py")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
